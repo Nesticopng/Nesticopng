@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💡 Sobre mí  <br>- 🔭 Actualmente trabajando en proyectos relacionados con [Next.js, TypeScript, o tecnologías que usas].  <br>- 💻 Me encanta explorar nuevas herramientas y frameworks para construir aplicaciones web robustas.  <br><br>📚 Estoy estudiando Ciencias Estadísticas y Actuariales en la Universidad Central de Venezuela<br><br>🤝 ¡Conecta conmigo!  <br>Si tienes ideas interesantes, proyectos para colaborar o simplemente quieres charlar, no dudes en contactarme:  <br>- 📧 nestor.cano.vielma@gmail.com  <br>- 🌐 <a href="https://nestico-portfolio.vercel.app/">Portafolio</a></p>
+<p align="left">💡 Sobre mí  <br>- 🔭 Actualmente trabajando en proyectos relacionados con Next.js, TypeScript y Python.  <br>- 💻 Me encanta explorar nuevas herramientas y frameworks para construir aplicaciones web robustas.  <br><br>📚 Estoy estudiando Ciencias Estadísticas y Actuariales en la Universidad Central de Venezuela<br><br>🤝 ¡Conecta conmigo!  <br>Si tienes ideas interesantes, proyectos para colaborar o simplemente quieres charlar, no dudes en contactarme:  <br>- 📧 nestor.cano.vielma@gmail.com  <br>- 🌐 <a href="https://nestico-portfolio.vercel.app/">Portafolio</a></p>
 
 ###
 
